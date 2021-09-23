@@ -3,6 +3,7 @@
     <test thread-count="0" name="Test" parallel="classes">
     <classes>
         <class name="Tests.TestNG_GooglesearchObject"/>
+        <class name="Tests.Browsersetinpropfile_Googlesearch"/>
         <class name="Tests.TestExtentReport_TestNG_GoogleSearch"/>
     </classes>
 </test>
